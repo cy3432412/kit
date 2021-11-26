@@ -11,4 +11,4 @@ script:
     - chmod +x coveralls.bash
     - ./coveralls.bash
 go:
-  - 1.12.1
+  - 1.16
